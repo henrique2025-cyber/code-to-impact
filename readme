@@ -1,0 +1,10 @@
+print("quantos jogadores estavam?  ")
+players = int(input())
+print("quantas kills voce fez?  ")
+kills = int(input())
+porcentagem = kills*100//players
+print("voce fez,",porcentagem,"% das kills")
+if porcentagem >= 35:
+  print("parabens seu monstro!")
+else:
+  print("treina mais um pouco seu prego!")
