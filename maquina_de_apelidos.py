@@ -10,4 +10,4 @@ elif numero == 3:
 elif numero == 4:
     print(amigo+" bla bla bla, agora traduz para o portugues")
 else:
-    print("seu burro esse numero é invalido!")
+    print("seu burro, esse numero é invalido!")
